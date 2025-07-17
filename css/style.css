@@ -1,5 +1,16 @@
 header{
-    border: 3px solid blue;
+    height: 300px;
 }
-.top-header{background: cadetblue;}
-.bottom-header{background: navajowhite;}
+.bottom-header{
+    
+}
+.logo{
+    height: 70%;
+}
+.logo-a{
+    display: inline-block;
+    height: 100%;
+}
+.lofo_img{
+    height: 100%;
+}
